@@ -1,4 +1,4 @@
-package sringBuilderTask;
+package stringBuilderTask;
 
 public class Praktikum {
     public static void main(String[] args) {
